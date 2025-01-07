@@ -17,3 +17,5 @@ parser/*.mo
 parser/*.json
 .vscode
 *.pyc
+*.png
+*.mo
