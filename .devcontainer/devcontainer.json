@@ -1,5 +1,10 @@
 {
     "name": "Dev Container Python",
-    "image": "senhuang/pyfmi"
+    "image": "senhuang/pyfmi",
+    "features": {
+        "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+        "ghcr.io/devcontainers/features/conda:1": {}
+    }
+    
   }
   
